@@ -34,5 +34,5 @@ The system allows basic operations like adding, deleting, searching, retrieving,
 1. Compile the project using g++:
    ```bash
    g++ main.cpp -o hospitalSystem
-   ```
    ./hospitalSystem
+   ```
